@@ -1,8 +1,8 @@
 {
-  "homepage": "https://gabrielssobrinho.github.io/lista-app",
   "name": "projeto-todolist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gabrielssobrinho.github.io/lista-tarefas",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
