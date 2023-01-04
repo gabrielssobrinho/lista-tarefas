@@ -6,6 +6,6 @@ Sistema web para controle de tarefas.
 
 * Visual Studio Code.
 * Node.
-* Npm (npx create-react-app netflix-clone).
+* Npm (npx create-react-app lista-tarefas).
 
 Acesse: https://gabrielssobrinho.github.io/lista-tarefas/.
